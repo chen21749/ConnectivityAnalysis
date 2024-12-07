@@ -4,7 +4,7 @@
 
 
 html: 前端代码openlayers <br>
-WebSockProject：接受前端传入的点位信息算出流向路径，socket实现：https://github.com/zaphoyd/websocketpp；<br>
+WebSockProject：接受前端传入的点位信息算出流向路径，socket实现：https://github.com/zaphoyd/websocketpp<br>
 email：872492273@qq.com <br>
 
 
